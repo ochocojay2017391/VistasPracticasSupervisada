@@ -1,0 +1,256 @@
+
+body    {
+    background-image: url('../images/fondo.png.crdownload');
+
+
+}
+
+#login {
+    text-align: center;
+    color: white;  
+    align-items: center;
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+    width: 300px;
+    height: 236px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -118px; 
+    margin-left: -150px;
+}
+
+#actualizar{
+    text-align: center;
+
+}
+
+#menu1{
+    text-align: center;
+
+}
+#registrarse{
+    color: white;
+
+}
+
+#error{
+    display:block; 
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    
+
+}
+
+#tabla{
+    
+    background-color: white;
+    color: black;
+    border: #b2b2b2 1px solid;
+
+    
+}
+table {
+    border: #b2b2b2 1px solid;
+  }
+  td, th {
+    border: black 1px solid;
+  }
+
+  #iniciarboton{
+    margin-left: auto; 
+    margin-right: auto;
+    text-align:center;
+    margin: auto;
+    width: 500px;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -300px;
+
+  }
+
+
+#Editarcontacto{
+    border: white 1px solid;
+    border: white 1px solid;
+    text-align: center;
+    color: black; 
+    margin: auto;
+    width: 500px;
+    margin: 0 auto;
+    color: white; 
+    background-color: black;
+    
+
+}
+
+#divT{
+    color: black; 
+    margin: auto;
+    width: 500px;
+    margin: 0 auto;
+    position: absolute;
+    left: 50%;
+    margin-left: -300px;
+    top: 50%;
+    margin-top: -300px;
+    
+}
+
+
+
+#titulo{
+    margin: auto;
+    border-radius: 5em;
+    border-left-width:5em;
+    background-color: white;
+    text-align: center;
+    color:black;
+    font-size: 3em;
+}
+
+#inicio{
+    text-align: center;
+    background-color: wheat;    
+}
+
+
+#div1{
+    text-align: center;
+}
+
+#biografia{
+    background-position: center;
+
+}
+
+#link1{
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    font-size: 100%;
+    border-radius: 5em;
+    width: 80em;
+    background-color: white;  
+    text-align: center;
+    color: black;
+    padding-bottom: 5%;
+    width: 70%;
+    margin-bottom:auto;
+
+}
+#txt1{  
+    
+    border-radius: 5em;
+    border-left-width:5em;
+    margin: auto;
+    font-size: 120%;
+
+    background-color: white;  
+    text-align: center;
+    color: black;
+
+
+}
+#txt2{  
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    font-size: 100%;
+    border-radius: 5em;
+    width: 80em;
+    background-color: white;  
+    text-align: center;
+    color: black;
+    padding-bottom: 5%;
+    width: 70%;
+    margin-bottom:auto;
+
+}
+#lista1{
+    
+    background-color: white;
+    color: black;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin: auto;
+    font-size: 100%;
+    border-radius: 5em;
+    width: 80em;
+    background-color: white;  
+    
+    color: black;
+    padding-bottom: 5%;
+    width: 70%;
+    margin-bottom:auto;
+
+}
+  
+
+
+
+
+#div1{
+    border-radius: 1em;
+    text-align: center;
+    background-color: grey;
+    position: fixed;
+    bottom: 05px;
+    width: 10%;
+    top: 118px;
+    display: block;
+}
+
+#div2{
+    border-radius: 1em;
+    text-align: center;
+    background-color: grey;
+    position: fixed;
+    bottom: 05px;
+    width: 10%;
+    top: 118px;
+    display: block;
+}
+#div3{
+    border-radius: 1em;
+    text-align: center;
+    background-color: grey;
+    position: fixed;
+    bottom: 05px;
+    width: 10%;
+    top: 118px;
+    display: block;
+}
+
+
+#nombre{
+    text-align: center;
+    color: white;
+}
+
+#t{
+    text-align: center;
+    color: white;
+}
+#t2{
+    text-align: center;
+    color: white;
+}
+
+#footer1{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 32px;
+    padding-bottom: 5px;
+    color: red;
+    text-align:right;
+
+}
+
+
